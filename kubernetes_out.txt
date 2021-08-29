@@ -1,0 +1,17 @@
+#output from kubectl terminal
+pod/ml created
+NAME   READY   STATUS              RESTARTS   AGE
+ml     0/1     ContainerCreating   0          1s
+Sleep for few seconds to wait for pod to be ready
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+
+------------------------------
+#outout from make_prediction.sh terminal
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
