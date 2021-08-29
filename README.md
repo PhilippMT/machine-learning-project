@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+[![CircleCI](https://circleci.com/gh/PhilippMT/machine-learning-project/tree/main.svg?style=svg)](https://circleci.com/gh/PhilippMT/machine-learning-project/tree/main)
 
 ## Project Overview
 
